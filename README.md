@@ -1,5 +1,5 @@
 Hello! I’m Ibrahhim Tlektes 👋 
-- Kazakh-British Technical University | 3rd Year Student
+- Kazakh-British Technical University | 4th Year Student
 - IOS-Developer 💻📲
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tlkt7/)
